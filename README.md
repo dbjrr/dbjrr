@@ -1,16 +1,33 @@
-## Hi there 👋
+## Welcome to My Infra & DevOps Lab 👋
 
-<!--
-**dbjrr/dbjrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+### 🔹 **Infra & OS**
+- Linux (Rocky / Ubuntu / Fedora / RHCOS)
+- VMware vSphere / vCenter
+- Bare-metal · Local VM Lab 운영
+
+### 🔹 **Containers & Orchestration**
+- Docker  
+- Kubernetes (Pod, RS, Deployment, Service, Network, Storage)  
+- OKD / OpenShift  
+- CNI, Ingress, PV/PVC, Monitoring
+
+### 🔹 **DevOps & Automation**
+- Jenkins CI/CD  
+- GitHub Webhook  
+- Ansible (서버 자동화, vCenter VM 자동 생성)  
+- Shell Script (운영 스크립트)
+
+### 🔹 **Cloud**
+- AWS (EC2, S3, EFS, IAM, VPC)
+
+### 🔹 **Monitoring**
+- Prometheus  
+- Grafana  
+- Node Exporter
+
+---
