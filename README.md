@@ -34,7 +34,7 @@
 - 🟥 **RHCE (Red Hat Certified Engineer)**
 - 🟥 **RHCSA (Red Hat Certified System Administrator)**
 - ☸️ **CKA (Certified Kubernetes Administrator)**
-- 🟦 **NCP (Nutanix Certified Professional)**
+- 🟦 **NCP (Naver Certified Professional)**
 - 🐧 **리눅스마스터 2급**
 - 🌐 **네트워크관리사 2급**
 
